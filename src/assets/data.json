@@ -36,6 +36,14 @@
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
-      }
+      },
+        {
+          
+        "date": "20/10/2024",
+        "title": "FE-commerce with React and redux toolkit",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://clickecommercebyefte.vercel.app/",
+        "imgSrc": "https://i.postimg.cc/XXkbszw7/Screenshot-369.png"  
+        }
     ]
   }
